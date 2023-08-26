@@ -1,0 +1,41 @@
+.hod img{
+    width: 100px;
+    height: 100px;
+    border-radius:  50px;
+    align-items: center;
+}
+.hod{
+    text-align: center;
+}
+.about{
+    text-align: justify;
+}
+header{
+    color: antiquewhite;
+    background-image:url("aimlnameing.avif");
+    margin-left: 5px;
+}
+body{
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+   
+}
+p{
+    margin-left: 9px;
+    text-align: justify;
+}
+footer {
+    background-color: #000000;
+    color: aliceblue;
+  }
+  a{
+    color: aliceblue;
+  }
+  footer ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }

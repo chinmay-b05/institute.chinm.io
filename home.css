@@ -120,8 +120,7 @@ footer{
   color: aliceblue;
 }
 ul li {
-  display: inline;
-  list-style: none;
-  margin-right: 15px;
+  display: inline-block;
+  margin: 0 10px;
 }
 
